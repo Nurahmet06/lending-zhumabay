@@ -4,7 +4,7 @@ AI Future 2026 is a landing page for an IT conference about Artificial Intellige
 
 ## Live Site
 
-[The website will be published using GitHub Pages.](https://nurahmet06.github.io/lending-zhumabay/)
+https://nurahmet06.github.io/lending-zhumabay/
 
 ## What I Did
 
